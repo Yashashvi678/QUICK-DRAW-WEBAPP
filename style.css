@@ -1,0 +1,56 @@
+body
+{
+    background-color: rgb(0, 255, 0);
+}
+
+h1
+{
+    font-weight: bold;
+    color: rgb(38, 0, 255);
+    background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#score_update
+{
+    font-size: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#timer_update
+{
+    font-size: 30px;
+    margin-right: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    float: right;
+}
+
+#sketch_to_be_drawn
+{
+    font-size: 25px;
+    font-family: fantasy;
+    color: red;
+}
+
+#label
+{
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#confidence
+{
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
